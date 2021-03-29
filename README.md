@@ -1,2 +1,2 @@
-# Problems_Solving_CSES
-This is a file that contains solutions for some CSES Problems (https://cses.fi/problemset/list/)
+# Problems_Solving
+C++ Algorithms solutions
